@@ -3,7 +3,7 @@
 **Trabalho final da disciplina de Introdução à Programação (1º Período no IFPR)**
 
 ## Descrição do Projeto
-Freeway é um jogo desenvolvido em Python utilizando a biblioteca Pygame. O jogador controla uma galinha que precisa atravessar a estrada enquanto evita carros em movimento. O objetivo é chegar ao outro lado sem ser atropelado.
+jogo desenvolvido em Python utilizando a biblioteca Pygame. O jogador controla uma galinha que precisa atravessar a estrada enquanto evita carros em movimento. O objetivo é chegar ao outro lado sem ser atropelado.
 
 ---
 
