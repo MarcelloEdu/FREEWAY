@@ -66,7 +66,7 @@ meu_jogo/
 ## Observações
 - Este projeto foi desenvolvido como trabalho final da disciplina de Introdução à Programação no 1º Período do IFPR.
 - Certifique-se de que todos os arquivos da pasta `arquivos` estão presentes para evitar erros durante a execução.
-- Caso encontre problemas ao executar o jogo, verifique se os requisitos estão atendidos ou entre em contato com o desenvolvedor.
+- Caso encontre problemas ao executar o jogo, verifique se os requisitos estão atendidos ou entre em contato comigo.
 
 ---
 
